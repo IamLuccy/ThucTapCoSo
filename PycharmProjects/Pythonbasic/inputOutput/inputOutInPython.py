@@ -21,4 +21,4 @@ print ("Length of the first string: ", len(b[0]))
 # Add an element to Array "a".
 a.append(2.11)
 
-print("hi hi test code day...")
+#okie end of this file.
